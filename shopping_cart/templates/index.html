@@ -1,0 +1,11 @@
+
+{% block content %}
+<ul>
+    {% for cap in caps %}
+        <li>{{cap.name}}</li>
+    {% empty %}
+        <li>no data</li>
+    {% endfor %} 
+</ul>
+
+{% endblock content %}

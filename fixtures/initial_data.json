@@ -1,0 +1,162 @@
+[
+    {
+        "model": "shopping_cart.Product",
+        "pk": 1,
+        "fields": {
+            "name": "Gorra Lakers",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/gorra_lakers.jpg",
+            "price": 20,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Gorra Los Angeles Lakers",
+            "primary_color": "Purple",
+            "secondary_color": "Gold",
+            "brand": "Fifty"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 2,
+        "fields": {
+            "name": "Gorra Bulls",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/gorra_bulls.jpg",
+            "price": 20,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Gorra Chicago Bulls",
+            "primary_color": "Red",
+            "secondary_color": "Black",
+            "brand": "Fifty"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 3,
+        "fields": {
+            "name": "Gorra Nets",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/gorra_nets.jpeg",
+            "price": 20,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Gorra Broklyn Nets",
+            "primary_color": "White",
+            "secondary_color": "",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 4,
+        "fields": {
+            "name": "Gorra Jazz",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/gorra_Jazz.jpeg",
+            "price": 20,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Gorra Utah Jazz",
+            "primary_color": "Navy blue",
+            "secondary_color": "",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 5,
+        "fields": {
+            "name": "Gorra Timberwolves",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/gorra_timberwolves.jpeg",
+            "price": 20,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Gorra Minnesota Timberwolves",
+            "primary_color": "white",
+            "secondary_color": "",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 6,
+        "fields": {
+            "name": "Camiseta Larry Bird",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/camiseta_bird.jpg",
+            "price": 60,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Camiseta Boston Celtics de Larry Bird",
+            "primary_color": "Green",
+            "secondary_color": "White",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 7,
+        "fields": {
+            "name": "Camiseta Stephen Curry",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/camiseta_curry.jpeg",
+            "price": 60,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Camiseta Golden State Warriors de Stephen Curry",
+            "primary_color": "Blue",
+            "secondary_color": "Yellow",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 8,
+        "fields": {
+            "name": "Camiseta Antetokounmpo",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/camiseta_giannis.jpeg",
+            "price": 60,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Camiseta Milwaukee Bucks de Giannis Antetokounmpo",
+            "primary_color": "Green",
+            "secondary_color": "White",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 9,
+        "fields": {
+            "name": "Gorra Jazz",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/camiseta_iverson.jpeg",
+            "price": 60,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Camiseta Philadelphia 76ers de Allen Iverson",
+            "primary_color": "Black",
+            "secondary_color": "Red",
+            "brand": "Nike"
+        }
+    },
+    {
+        "model": "shopping_cart.Product",
+        "pk": 10,
+        "fields": {
+            "name": "Gorra Michael Jordan",
+            "date": "2022-01-01 23:00:00",
+            "img_url": "shopping_cart/static/img/camiseta_jordan.jpg",
+            "price": 60,
+            "initial_stock": 10,
+            "actual_stock": 0,
+            "description": "Camiseta Chicago Bulls de Michael Jordan",
+            "primary_color": "Red",
+            "secondary_color": "White",
+            "brand": "Nike"
+        }
+    }    
+]
