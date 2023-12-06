@@ -41,7 +41,7 @@ class Cart(models.Model):
     def __str__(self):
         return self.completed
 
-class CartItem(models.Model):
+class CartProduct(models.Model):
     product = models.ForeignKey(Product, default = 0, on_delete= models.CASCADE, null=True)
     cart = models.ForeignKey(Cart, on_delete=models.CASCADE)
     quantity = models.IntegerField(max_length=2,default=0)
